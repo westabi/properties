@@ -1,0 +1,8 @@
+flows:
+  FlowA:
+    priority: 30
+  FlowB:
+    priority: 20
+  FlowC:
+    priority: 10
+
